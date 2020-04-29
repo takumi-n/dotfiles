@@ -1,0 +1,50 @@
+{
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "workbench.editor.enablePreview": false,
+    "go.formatTool": "goimports",
+    "go.useLanguageServer": true,
+    "go.alternateTools": {
+        "go-langserver": "gopls"
+    },
+    "go.languageServerExperimentalFeatures": {
+        "format": false,
+        "autoComplete": true,
+        "rename": true,
+        "goToDefinition": true,
+        "hover": true,
+        "signatureHelp": true,
+        "goToTypeDefinition": true,
+        "goToImplementation": true,
+        "documentSymbols": true,
+        "workspaceSymbols": true,
+        "findReferences": true
+    },
+    "[go]": {
+        "editor.snippetSuggestions": "none",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        },
+    },
+    "go.toolsEnvVars": {
+        "GO111MODULE": "on"
+    },
+    "gitlens.hovers.currentLine.over": "line",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.cursorBlinking": "expand",
+    "editor.minimap.enabled": false,
+    "workbench.editor.labelFormat": "short",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "window.zoomLevel": 0,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.format.enable": false,
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true
+}
