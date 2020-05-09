@@ -46,6 +46,6 @@
     "[vue]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "editor.formatOnSave": true,
-    "workbench.colorTheme": "Material Theme Darker"
+    "explorer.autoReveal": false,
+    "editor.formatOnSave": true
 }
