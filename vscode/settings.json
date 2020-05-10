@@ -47,5 +47,6 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "explorer.autoReveal": false,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "GitHub Dark"
 }
