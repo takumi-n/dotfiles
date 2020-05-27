@@ -1,3 +1,4 @@
+aaron-bond.better-comments
 christian-kohler.npm-intellisense
 christian-kohler.path-intellisense
 CoenraadS.bracket-pair-colorizer
@@ -20,7 +21,6 @@ ms-vscode.Go
 ms-vscode.vscode-typescript-tslint-plugin
 octref.vetur
 oderwat.indent-rainbow
-ritwickdey.live-sass
 ritwickdey.LiveServer
 ryu1kn.partial-diff
 shardulm94.trailing-spaces
