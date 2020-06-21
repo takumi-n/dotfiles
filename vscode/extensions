@@ -1,8 +1,10 @@
 aaron-bond.better-comments
+bmalehorn.vscode-fish
 christian-kohler.npm-intellisense
 christian-kohler.path-intellisense
 CoenraadS.bracket-pair-colorizer
 dbaeumer.vscode-eslint
+denoland.vscode-deno
 eamodio.gitlens
 EditorConfig.EditorConfig
 Equinusocio.vsc-community-material-theme
@@ -13,11 +15,11 @@ felixfbecker.php-intellisense
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 GitHub.github-vscode-theme
+golang.Go
 hediet.vscode-drawio
 ikappas.phpcs
 mechatroner.rainbow-csv
 MS-CEINTL.vscode-language-pack-ja
-ms-vscode.Go
 ms-vscode.vscode-typescript-tslint-plugin
 octref.vetur
 oderwat.indent-rainbow
@@ -25,6 +27,8 @@ ritwickdey.LiveServer
 ryu1kn.partial-diff
 shardulm94.trailing-spaces
 sysoev.vscode-open-in-github
+unbug.codelf
 valeryanm.vscode-phpcbf
+vscodevim.vim
 Zignd.html-css-class-completion
 zxh404.vscode-proto3
